@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I’m a software engineer with a passion for  [ we
   - [PHP, Node.js , JavaScript, Python]
   - [Html,Css,Bootstrab,Ejs]
 - **Frameworks & Libraries:**
-  - [React, Laravel,Express.js]
+  - [Laravel,Express.js,React]
 - **Tools & Platforms:**
   - [ Docker, Kubernetes, AWS, Git]
 - **Databases:**
