@@ -48,33 +48,59 @@
 ### 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedaalli&theme=radical&no-bg=true&no-frame=true&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mohamedalicoder&theme=radical&no-bg=true&no-frame=true&column=7" alt="Trophies" />
   <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedaalli&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedalicoder&show_icons=true&theme=radical" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohamedaalli&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohamedalicoder&theme=radical" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaalli&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedalicoder&layout=compact&theme=radical" />
 </p>
 
 ---
 
-### 🧠 GitHub Activity Graph
+### 🌟 GitHub Contribution Streak
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamedalicoder&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohamedalicoder&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-### 🐍 Snake Animation (Contribution Tracker)
+### 📈 GitHub Activity Graph
 
-![snake gif](https://raw.githubusercontent.com/mohamedaalli/mohamedaalli/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedalicoder&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
+</p>
 
+---
 
+### 💡 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedalicoder&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 🚀 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedalicoder&show_icons=true&theme=merko&hide_border=true" alt="GitHub Stats" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohamedalicoder&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+</p>
 ---
 
 ### 🤝 Support Me
 
-<a href="https://www.buymeacoffee.com/mohamedaalli" target="_blank">
+<a href="https://www.buymeacoffee.com/mohamedalicoder" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
 </a>
 
