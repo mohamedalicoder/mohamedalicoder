@@ -61,7 +61,7 @@
 
 ### 🧠 GitHub Activity Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mohamedaalli&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mohamedalicoder&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
